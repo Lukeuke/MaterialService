@@ -1,0 +1,16 @@
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\bin\Debug\net5.0\Przeliczanie.exe
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\bin\Debug\net5.0\Przeliczanie.deps.json
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\bin\Debug\net5.0\Przeliczanie.runtimeconfig.json
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\bin\Debug\net5.0\Przeliczanie.runtimeconfig.dev.json
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\bin\Debug\net5.0\Przeliczanie.dll
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\bin\Debug\net5.0\ref\Przeliczanie.dll
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\bin\Debug\net5.0\Przeliczanie.pdb
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.csproj.AssemblyReference.cache
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.AssemblyInfoInputs.cache
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.AssemblyInfo.cs
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.dll
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\ref\Przeliczanie.dll
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.pdb
+C:\Users\Łukasz\RiderProjects\Przeliczanie\Przeliczanie\obj\Debug\net5.0\Przeliczanie.genruntimeconfig.cache
