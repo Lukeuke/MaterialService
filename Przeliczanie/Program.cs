@@ -5,20 +5,9 @@ namespace Przeliczanie
     // Factory Pattern
     class Program
     {
-        static int SumaKubatury(int iloscElementow, int kubatura)
-        {
-            return iloscElementow * kubatura;
-        }
-
-        static int SumaPolaPowierzchniBocznej(int iloscElementow, int polePowierzchniBocznej)
-        {
-            return iloscElementow * polePowierzchniBocznej;
-        }
-
-        static int SumaGestosci(int iloscElementow, int gestosc)
-        {
-            return iloscElementow * gestosc;
-        }
+        static int sumaKubatury;
+        static int sumaPolaPowierzchni;
+        static int sumaGestosci;
         
         static void Main(string[] args)
         {
@@ -71,10 +60,13 @@ namespace Przeliczanie
                             proc.GetMaterial(ERodzajeMaterialu.miedz, material);
                             break;
                     }
+                sumaKubatury += material.Kubatura;
+                sumaPolaPowierzchni += material.PolePowierzchniBoczej;
+                sumaGestosci += material.Gestosc;
             }
-            Console.WriteLine("Kubatura zlozonej figury: " + SumaKubatury(iloscElementow, material.Kubatura));
-            Console.WriteLine("Pole powierzchni bocznej figury: " + SumaPolaPowierzchniBocznej(iloscElementow, material.PolePowierzchniBoczej));
-            Console.WriteLine("Suma Gestosci: " + SumaGestosci(iloscElementow, material.Gestosc));
+            Console.WriteLine("Kubatura zlozonej figury: " + sumaKubatury);
+            Console.WriteLine("Pole powierzchni bocznej figury: " + sumaPolaPowierzchni);
+            Console.WriteLine("Suma Gestosci: " + sumaGestosci);
         }
     }
 }
